@@ -1,7 +1,8 @@
 # Hi, I'm Jade Kelly.
 ## Welcome to my GitHub!
-## I’m a final year student at IADT studying BSc (Hons) in Creative Computing with a particular interest in JavaScript and Full Stack development. 
-## When I started this course I didn’t have much experience with programming or languages. I developed an interest in databases which later fueled my passion for Fullstack development when I started to learn JavaScript.
+## I’m a final year student at IADT studying BSc (Hons) in Creative Computing with a particular interest in JavaScript and Full Stack development.
+
+### 🔭 I’m currently working on my Major Project - 'A Comparative Analysis of Interactive Design on Web Applications' using AngularJS.
 
 
 <!--
