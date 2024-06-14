@@ -1,8 +1,8 @@
 # Hi, I'm Jade Kelly.
 ## Welcome to my GitHub!
-## I’m a final year student studying BSc (Hons) Creative Computing with a particular interest in JavaScript and Full Stack development.
+## I’m a BSc (Hons) Creative Computing graduate with a particular interest in JavaScript and Full Stack development.
 
-### 🔭 I’m currently working on my Major Project - 'A Comparative Analysis of Interactive Design on Forms' using React JS.
+### 
 
 
 <!--
