@@ -1,6 +1,7 @@
 # Hi, I'm Jade Kelly.
 ## Welcome to my GitHub!
 ## I’m a BSc (Hons) Creative Computing graduate with a particular interest in JavaScript and Full Stack development.
+## I'm currently exploring game/3D design in UE5 and Blender.
 
 ### 🌱 I’m currently learning Unreal Engine 5
 ### 🔭 I’m currently working on my portfolio
