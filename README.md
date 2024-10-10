@@ -7,12 +7,10 @@
 I'm an IADT graduate that has a passion for programming and web/game development. During college I had a particular interest in full-stack development. Lately I have been learning Unreal Engine 5.
 
   <p align="center">
-    <a href="">
-      <img alt="LinkedIn" title="View my LinkedIn" src=""/>
-    </a>
-    <a href="">
-      <img alt="Portfolio" title="View my Portfolio web app" src=""/>
-    </a>
+    <a href="https://www.linkedin.com/in/jaderkelly">
+      <img alt="LinkedIn" title="View my LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-BADD7F"/></a>
+    <a href="https://github.com/jade-r-k?tab=repositories">
+      <img alt="Portfolio" title="View my Portfolio web app" src="https://img.shields.io/badge/%20Portfolio%20-EFACA5"/></a>
   </p>
 
 ---
@@ -24,14 +22,19 @@ I'm an IADT graduate that has a passion for programming and web/game development
   <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
   <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="left" alt="Node" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="left" alt="UE5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
   <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="left" alt="VSCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img align="left" alt="ViteJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img align="left" alt="Android Studio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
   <img align="left" alt="Kotlin" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -42,44 +45,16 @@ I'm an IADT graduate that has a passion for programming and web/game development
 <details>
  <summary><h3>What I Studied</h3></summary>
   <div align="left">
-    <p>Year 4:</p>
     <ul>
-      <li>Advanced JavaScript (MERN Stack, MongoDB, Express, React, Node)</li>
-      <li>Professional Development</li>
-      <li>Research & Analytics</li>
+      <li>JavaScript (MERN stack, CRUD, REST API, Vue)</li>
+      <li>Web Design (HTML, CSS, PHP, Miro, Figma, Git)</li>
+      <li>Mobile Computing (Kotlin, Android Jetpack)</li>
+      <li>Networks & Cloud Computing (AWS, Cisco)</li>
+      <li>Database Management Systems (SQL)</li>
+      <li>Programming (Java)</li>
+      <li>Creative Digital Media (Photoshop, Illustrator, Premiere)</li>
       <li>Virtual/Augmented Reality (WebXR, Unity, C#)</li>
-      <li>Major Project</li>
-    </ul>
-  </div>
-  <div align="left">
-    <p>Year 3:</p>
-    <ul>
-      <li>Business & Entrepreneurship</li>
-      <li>Emerging Technologies & Trends</li>
-      <li>Front End Development (Hosting, REST API, JavaScript, Vue)</li>
-      <li>Mobile Computing (Android Jetpack, Kotlin)</li>
-      <li>Networks & Cloud Computing (AWS, Packet Tracer)</li>
-      <li>Group Project</li>
-    </ul>
-  </div>
-  <div align="left">
-    <p>Year 2:</p>
-    <ul>
-        <li>Advanced Web Design & Development (PHP, HTML, CSS, MySQL, phpMyAdmin, Git)</li>
-        <li>Computer Architecture & OS (Java, Linux, LMC)</li>
-        <li>Computer Modeling (JavaScript)</li>
-        <li>Database Management Systems (ERDs, SQL)</li>
-        <li>Software Design & Development (Java, MySQL)</li>
-    </ul>
-  </div>
-  <div align="left">
-    <p>Year 1:</p>
-    <ul>
-        <li>Web Design & Development (HTML/CSS)</li>
-        <li>Programming (Processing/Java)</li>
-        <li>Databases (SQL/PHP)</li>
-        <li>Creative Digital Media (Photoshop/Illustrator/Premiere)</li>
-        <li>Computer Technology</li>
+      <li>Research & Analytics (Google Analytics)</li>
     </ul>
   </div>
 </details>
