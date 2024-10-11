@@ -35,6 +35,8 @@ I'm an IADT graduate that has a passion for programming and web/game development
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 #
 
