@@ -35,10 +35,12 @@ I'm an IADT graduate that has a passion for programming and web/game development
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+#
+
+### Stats
+
+<img alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jade-r-k" />
 
 #
 
